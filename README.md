@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything .
 - 📫 How to reach me: ... [sahil Keshav](https://www.facebook.com/profile.php?id=100057408580388)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... Keeps learning everything again and again .
+- ⚡ Fun fact: ... Keeps learning everything again and again ...
 -->
