@@ -1,8 +1,6 @@
 ## Hi there I'm Sahil 👋
 
 ### A student / Front end Developer 
-<!--
-**sahil9818336328/sahil9818336328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Sahil Keshav]("https://www.facebook.com/profile.php?id=100057408580388")
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: still learning everything
--->
+
