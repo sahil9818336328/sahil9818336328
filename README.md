@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/4b5z5gxnchiwpjggjj83nqysu)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://novatorem.sahil9818336328.vercel.app/user/4b5z5gxnchiwpjggjj83nqysu)
 
 
