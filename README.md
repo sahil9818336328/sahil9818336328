@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 </br>
 
 ### Spotify
-![Spotify](https://novatorem.sahil9818336328.vercel.app/api/spotify)  
+[![Spotify](https://novatorem-pi-five.vercel.app
+/api/spotify)](https://open.spotify.com/user/4b5z5gxnchiwpjggjj83nqysu)
+
