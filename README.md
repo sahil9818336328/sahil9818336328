@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </br>
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.sahil9818336328.vercel.app/api/spotify)](https://open.spotify.com/user/aa93f56c2c814d0ab328744d5dc131ed)
+[![Spotify](https://novatorem-ashy-omega.vercel.app/api/spotify)](https://open.spotify.com/user/aa93f56c2c814d0ab328744d5dc131ed)
 
 
 
