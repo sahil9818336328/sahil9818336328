@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 </br>
 
 ### Spotify playing ...
-[![Spotify](https://novatorem.sahil9818336328.vercel.app/api/spotify)](https://open.spotify.com/user/ aa93f56c2c814d0ab328744d5dc131ed)
+### Spotify
+![Spotify](https://spotify-now-playing.codedbydom.vercel.app/api/spotify)  
