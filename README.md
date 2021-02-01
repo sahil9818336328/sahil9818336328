@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.w3schools.com/js/default.asp)
 </br>
 </br>
+
+[![Spotify](https://novatorem.sahil9818336328.vercel.app/api/spotify)](https://open.spotify.com/user/aa93f56c2c814d0ab328744d5dc131ed)
