@@ -2,14 +2,14 @@
 
 ### A student / Front end Developer 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning behind the scene stuffs
 - 👯 I’m looking to collaborate on Front end projects
 - 🥅 2021 Goals: learn to contribute to Open Source 
 - 📫 How to reach me : [**_Sahil Keshav_** ](https://www.facebook.com/profile.php?id=100057408580388 "visit my FaceBook") (91+ 9818336328)
-- ⚡ Fun fact : love to sing and record jaja 
+- ⚡ Fun fact : love to sing and record 
 
 ### Languages and Tools:
 
