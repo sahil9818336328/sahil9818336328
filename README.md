@@ -22,8 +22,8 @@
 
 ### Inspirations:
   * [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
-  * Traversy Media
-  * Kewin Powell
+  * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+  * [Kevin Powell](https://www.youtube.com/user/KepowOb)
 
 
 
