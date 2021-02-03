@@ -21,7 +21,10 @@
 </br>
 </br>
 
-
+### Inspirations:
+  * Coding Addict 
+  * Traversy Media
+  * Kewin Powell
 
 
 
