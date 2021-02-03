@@ -21,7 +21,7 @@
 </br>
 
 ### Inspirations:
-  * Coding Addict 
+  * [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
   * Traversy Media
   * Kewin Powell
 
