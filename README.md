@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Front end projects
 - 🥅 2021 Goals: learn to contribute to Open Source 
-- 📫 How to reach me : [**_Sahil Keshav_** ](www.linkedin.com/in/sahil-khatri-867952205) (91+ 9818336328)
+- 📫 How to reach me : [**_Sahil Keshav_** ](https://www.linkedin.com/in/sahil-khatri-867952205/) (91+ 9818336328)
 - ⚡ Fun fact : love to sing  
 
 ### Languages and Tools:
